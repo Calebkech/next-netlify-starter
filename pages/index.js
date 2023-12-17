@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title=" Caleb Kech" />
         <p className=""><b>Reach The DevOps And Security Community</b></p> 
-        <p className="description"><i>
+        <p className=""><i>
           Authentic Engagement: 
           We're not here to impress with jargon or elaborate buzzwords. 
           Instead, let's engage in a conversation that speaks directly to the challenges you face. 
