@@ -64,10 +64,10 @@ export default function Home() {
         <main>
           <div className="row">
             <div className="fs-5 col-md-8">
-              <h1>Reach The Security Community</h1>
-              <p>Inspire and educate security professionals without fluff.</p>
-              <p>Engage the industry with an authentic voice and show people what matters.</p>
-              <p>Share content, foster learning, and make your work known &mdash; <i>we'll do it together</i>.</p>
+              <h1>Unified Growth</h1>
+              <p>Knowledge is a journey best traveled together.</p>
+              <p>Let's build a community where security and DevOps professionals can share insights, exchange experiences, and collectively elevate our industry.</p>
+              <p>Share content, foster learning, and make your work known &mdash; <i> We'll do it together</i>.</p>
               <br />
               <div className="mb-5">
                 <a href="/sponsor" className="btn btn-primary btn-lg px-4">
@@ -75,7 +75,7 @@ export default function Home() {
                 </a>
                 &nbsp;&nbsp;&nbsp;
                 <a href="/bio" className="btn btn-info btn-lg px-4">
-                  Learn about John
+                  Learn about caleb
                 </a>
               </div>
 
