@@ -69,16 +69,17 @@ export default function Home() {
               <p>Let's build a community where security and DevOps professionals can share insights, exchange experiences, and collectively elevate our industry.</p>
               <p>Share content, foster learning, and make your work known &mdash; <i> We'll do it together</i>.</p>
               <br />
+               {/*
               <div className="mb-5">
                 <a href="/sponsor" className="btn btn-primary btn-lg px-4">
                   Become a Partner
                 </a>
                 &nbsp;&nbsp;&nbsp;
                 <a href="/bio" className="btn btn-info btn-lg px-4">
-                  Learn about caleb
+                  Learn about Caleb
                 </a>
               </div>
-
+              */}
               <div className="mb-5">
                 {/* Additional content goes here */}
               </div>
